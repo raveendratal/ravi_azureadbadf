@@ -1,0 +1,9 @@
+{
+	"name": "adfv2batch37dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83e18899-a08e-490f-8838-2cf904038246",
+		"tenantId": "89556edd-0e4a-43c1-bbcb-9139ff026b1f"
+	}
+}
