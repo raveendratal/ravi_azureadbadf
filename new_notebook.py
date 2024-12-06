@@ -15,4 +15,4 @@
 
 # COMMAND ----------
 
-
+df = spark.read.csv("/FileStore/tables/sample_data.csv")
